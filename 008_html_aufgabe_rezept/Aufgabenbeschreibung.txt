@@ -1,0 +1,9 @@
+Formatieren Sie den vorhandenen Text und Bild bestmöglich durch die Ihnen bekannten TAGs in HTML.
+
+Die Aufgabe wird benotet als Test (Wertung 0.5)
+
+Gegeben ist der Text "text_vorgabe.txt" und das Bild "hummus-bi-tahina.jpg".
+
+Sie dürfen Ihr Layout frei wählen.
+
+Abgabe ist der 23.10.22 um 23:59 Uhr per Mail
